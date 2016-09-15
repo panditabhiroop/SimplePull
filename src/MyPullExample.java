@@ -3,9 +3,10 @@ public class MyPullExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    System.out.println("hello");
-    System.out.println("see atlast i solved the prob");
-    System.out.println("preeti rocks");
+    String[] charcters = {"Harry","Hermoine","Snipp"};
+     for(int i=0; i<charcters.length;i++){
+    	 System.out.println(charcters[i]);
+     }
 	}
 
 }
