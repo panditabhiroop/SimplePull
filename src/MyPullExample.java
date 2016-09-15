@@ -5,6 +5,7 @@ public class MyPullExample {
 		// TODO Auto-generated method stub
     System.out.println("hello");
     System.out.println("see atlast i solved the prob");
+    System.out.println("preeti rocks");
 	}
 
 }
