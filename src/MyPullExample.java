@@ -7,6 +7,7 @@ public class MyPullExample {
 
      for(int i=0; i<charcters.length;i++){
     	 System.out.println(charcters[i]);
+    	 System.out.println("here try again");
      }
  }
 
